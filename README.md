@@ -1,2 +1,1 @@
-# blog
-Zicx's blog
+# Zicx's blog
